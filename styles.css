@@ -15,15 +15,15 @@ header {
     text-align: center;
 }
 /* replaced nav with .navigation */
-.navigation ul {
+nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
-.navigation ul li {
+nav ul li {
     display: inline;
 }
-.navigation ul li a {
+nav ul li a {
     text-decoration: none;
     color: #333;
     padding: 10px;
@@ -38,7 +38,7 @@ footer {
     bottom: 0;
     right: 0;
     width: 100vw;
-    background-color: #333;
+    background-color: 333;
     color: #fff;
     padding: 10px;
     /* added missing ':' */
