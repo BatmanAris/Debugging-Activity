@@ -30,6 +30,7 @@ nav ul li a {
 }
 main section {
     margin: 20px;
+}
 footer {
     position: absolute;
     /* added missing ; */
@@ -41,5 +42,4 @@ footer {
     padding: 10px;
     /* added missing : */
     text-align: center;
-}
 }
