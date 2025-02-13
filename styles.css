@@ -32,7 +32,7 @@ main section {
 footer {
     position: absolute;
     /* added missing ; */
-    bottom: 0
+    bottom: 0;
     right: 0;
     width: 100vw;
     background-color: #333;
@@ -41,4 +41,3 @@ footer {
     /* added missing : */
     text-align: center;
 }
-/* added missing } */
