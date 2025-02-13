@@ -20,11 +20,9 @@ header {
     margin: 0;
     padding: 0;
 }
-
 .navigation ul li {
     display: inline;
 }
-
 .navigation ul li a {
     text-decoration: none;
     color: #333;
@@ -34,7 +32,6 @@ header {
 main section {
     margin: 20px;
 }
-
 footer {
     position: absolute;
     /* added ; */
