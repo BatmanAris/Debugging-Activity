@@ -1,6 +1,6 @@
 /* styles.css */
 /* added { */
-body 
+body { 
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -14,15 +14,16 @@ header {
     padding: 20px;
     text-align: center;
 }
-nav ul {
+/* added . before nav */
+.nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
-nav ul li {
+.nav ul li {
     display: inline;
 }
-nav ul li a {
+.nav ul li a {
     text-decoration: none;
     color: #333;
     padding: 10px;
