@@ -14,17 +14,17 @@ header {
     text-align: center;
 }
 
-nav ul {
+.navigation ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
 
-nav ul li {
+.navigation ul li {
     display: inline;
 }
 
-nav ul li a {
+.navigation ul li a {
     text-decoration: none;
     color: #333;
     padding: 10px;
