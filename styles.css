@@ -15,15 +15,15 @@ header {
     text-align: center;
 }
 /* added . before nav */
-.nav ul {
+nav ul {
     list-style-type: none;
     margin: 0px;
     padding: 0wv;
 }
-.nav ul li {
+nav ul li {
     display: inline;
 }
-.nav ul li a {
+nav ul li a {
     text-decoration: none;
     color: #333;
     padding: 10px;
