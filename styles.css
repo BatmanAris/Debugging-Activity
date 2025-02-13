@@ -14,7 +14,7 @@ header {
     padding: 20px;
     text-align: center;
 }
-/* replaced nav with .navigation */
+/* added . in nav */
 .nav ul {
     list-style-type: none;
     margin: 0;
