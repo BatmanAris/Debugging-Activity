@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Debugging Activity</title>
-    <link rel="stylesheet" href="./style.css">
+    <!-- removed ./ in href-->
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
@@ -12,7 +13,7 @@
     </header>
     <nav>
         <ul style="color: brown;">
-            /* 4 > symbol is missing and 1 a */
+            <!-- 4 '>' symbol is missing and 1 'a' -->
             <li><a> href="#">Home</a></li>
             <li><a> href="#">About</a></li>
             <li><a> href="#">Services</a></li>
@@ -39,14 +40,13 @@
                 <input type="text" id="name" name="name">
                 <label for="email">Email:</label>
                 <input type="email" id="email" name="email">
-                /* Removed greater than sign in text area and textarea word in the last part */
-                <textarea id="message" name="message" rows="4" cols="50" placeholder="Enter your message here">
-                <button type="submit">Send</button>
-            
-        </section>
+                <!-- Removed greater than sign in text area and the placeholder word -->
+                <textarea id="message" name="message" rows="4" cols="50">Enter your message here</textarea>
+                <button type="button">Submit</button>
+         </section>
     </main>
     <footer>
-        /* Removed copy word in p */
+        <!-- Removed copy word in p -->
         <p>2024 Debugging Activity</p>
     </footer>
 </body>
