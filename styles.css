@@ -17,6 +17,7 @@ nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+}
 nav ul li {
     display: inline;
 }
@@ -39,4 +40,4 @@ footer {
     padding: 10px;
     /* added missing ':' */
     text-align: center;
-}
+}}}
