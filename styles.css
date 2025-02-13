@@ -15,7 +15,7 @@ header {
     text-align: center;
 }
 /* added . before nav */
-.nav ul {
+nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
