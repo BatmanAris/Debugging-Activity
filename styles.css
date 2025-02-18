@@ -31,7 +31,7 @@ body nav ul li a {
 main section {
     margin: 20px;
 }
-footer {
+body footer {
     position: absolute;
     /* added missing ; */
     bottom: 0;
